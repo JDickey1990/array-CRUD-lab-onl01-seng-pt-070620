@@ -21,7 +21,7 @@ end
 
 def remove_element_from_start_of_array(array)
   create_an_array=[1,2,3,4]
-  4_array=create_an_array.shift
+  4array=create_an_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
