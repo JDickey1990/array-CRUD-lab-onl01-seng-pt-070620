@@ -32,7 +32,7 @@ end
 
 def retrieve_first_element_from_array(array)
   create_an_array=[1,2,3,4,"am"]
-  create_an_array.first
+  create_an_array[0]
 end
 
 def retrieve_last_element_from_array(array)
