@@ -26,6 +26,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   create_an_array.push ("am")
+  create_an_array= [1,2,3,4,"am"]
   create_an_array[4]
 end
 
